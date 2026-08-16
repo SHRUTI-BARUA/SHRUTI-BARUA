@@ -118,11 +118,11 @@ A front-end clone of Zerodha's trading dashboard — built to practice replicati
 
 
 <!-- repos starts -->
-[SHRUTI-BARUA](https://github.com/SHRUTI-BARUA/SHRUTI-BARUA) — No description yet - 2026-08-16
-[CI-CD-pipeline](https://github.com/SHRUTI-BARUA/CI-CD-pipeline) — No description yet - 2026-08-11
-[SHREE_ANNA_CONNECT](https://github.com/SHRUTI-BARUA/SHREE_ANNA_CONNECT) — SIH 2025 PROJECT - 2026-04-04
-[FOREST-FIRE-PREDICTION](https://github.com/SHRUTI-BARUA/FOREST-FIRE-PREDICTION) — No description yet - 2026-03-28
-[FOREST-FIRE](https://github.com/SHRUTI-BARUA/FOREST-FIRE) — No description yet - 2026-03-26
+- [SHRUTI-BARUA](https://github.com/SHRUTI-BARUA/SHRUTI-BARUA) — No description yet - 2026-08-16
+- [CI-CD-pipeline](https://github.com/SHRUTI-BARUA/CI-CD-pipeline) — No description yet - 2026-08-11
+- [SHREE_ANNA_CONNECT](https://github.com/SHRUTI-BARUA/SHREE_ANNA_CONNECT) — SIH 2025 PROJECT - 2026-04-04
+- [FOREST-FIRE-PREDICTION](https://github.com/SHRUTI-BARUA/FOREST-FIRE-PREDICTION) — No description yet - 2026-03-28
+- [FOREST-FIRE](https://github.com/SHRUTI-BARUA/FOREST-FIRE) — No description yet - 2026-03-26
 <!-- repos ends -->
 
 ## ⚡ Recent Activity
