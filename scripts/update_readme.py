@@ -54,7 +54,7 @@ def build_activity_section():
             continue
         seen.add(key)
         date = fmt_date(ev["created_at"])
-        lines.append(f"[{repo}](https://github.com/{repo}) — {msg} - {date}")
+        lines.append(f"- [{repo}](https://github.com/{repo}) — {msg} - {date}")
         if len(lines) >= 5:
             break
 
@@ -79,7 +79,7 @@ def build_repos_section():
         name = r["name"]
         desc = r.get("description") or "No description yet"
         date = fmt_date(r["pushed_at"])
-        lines.append(f"[{name}]({r['html_url']}) — {desc} - {date}")
+        lines.append(f"- [{name}]({r['html_url']}) — {desc} - {date}")
         if len(lines) >= 5:
             break
 
