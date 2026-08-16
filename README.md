@@ -11,13 +11,13 @@
 
 </div>
 
-I build machine learning systems and full-stack apps for people who need models that actually get used — not just notebooks that get closed. Currently a **Project Intern at ADRDE, DRDO** (Ministry of Defence), building deep learning pipelines for aircraft detection. B.Tech CS (AI) @ Banasthali Vidyapith, CGPA 9.46/10.0.
+I build machine learning systems and full-stack apps for people who need models that actually get used — not just notebooks that get closed. 
 
 ---
 
 ## 🔭 Currently
 
-- Building **dual-stage deep learning pipelines** (YOLOv8 + EfficientNet) at DRDO
+
 - National Finalist @ **Smart India Hackathon (SIH) 2025**
 - Sharpening algorithms — **200+ problems solved on LeetCode**
 
@@ -62,7 +62,7 @@ I build machine learning systems and full-stack apps for people who need models 
 ### 🏆 [SHREE_ANNA_CONNECT](https://github.com/SHRUTI-BARUA/SHREE_ANNA_CONNECT)
 `TypeScript` · SIH 2025 National Finalist
 
-*[Add a one-line description of the problem this solves — currently missing from the repo itself]*
+
 
 </td>
 <td valign="top" width="33%">
@@ -88,7 +88,7 @@ Real-time object tracking and detection for drone footage using YOLO — the sam
 ### ⚙️ [CI/CD Pipeline](https://github.com/SHRUTI-BARUA/CI-CD-pipeline)
 `JavaScript`
 
-*[Add a one-line description — automated build/test/deploy pipeline for what project?]*
+
 
 </td>
 <td valign="top" width="33%">
@@ -104,7 +104,7 @@ A front-end clone of Zerodha's trading dashboard — built to practice replicati
 ### 🌱 [AI for Sustainability](https://github.com/SHRUTI-BARUA/AI_For_Sustainability-)
 `Jupyter Notebook` · SRIP 2026
 
-*[Add a one-line description of what this research project does]*
+
 
 </td>
 </tr>
@@ -115,7 +115,7 @@ A front-end clone of Zerodha's trading dashboard — built to practice replicati
 ---
 
 ## 📦 Recently Updated Repos
-*(auto-updates daily — pulled live from the GitHub API)*
+
 
 <!-- repos starts -->
 [SHRUTI-BARUA](https://github.com/SHRUTI-BARUA/SHRUTI-BARUA) — No description yet - 2026-08-16
@@ -126,10 +126,9 @@ A front-end clone of Zerodha's trading dashboard — built to practice replicati
 <!-- repos ends -->
 
 ## ⚡ Recent Activity
-*(auto-updates daily — pulled live from the GitHub API)*
 
 <!-- activity starts -->
-_No recent public push activity yet — go commit something!_
+
 <!-- activity ends -->
 
 More on my [pinned repos →](https://github.com/SHRUTI-BARUA?tab=repositories) · [How this works →](#-how-this-works)
@@ -144,14 +143,7 @@ More on my [pinned repos →](https://github.com/SHRUTI-BARUA?tab=repositories) 
 
 ---
 
-## 🏆 Achievements & Certifications
 
-- 🥈 **Smart India Hackathon (SIH) 2025** — National Finalist
-- 💡 **Google Girl Hackathon 2025** — Ideathon Round
-- 🧩 **200+ problems** solved on LeetCode
-- 📜 **MATLAB Academy Certifications** — MATLAB Onramp, Machine Learning
-
----
 
 ## 📊 GitHub Stats
 
@@ -172,7 +164,7 @@ More on my [pinned repos →](https://github.com/SHRUTI-BARUA?tab=repositories) 
 
 <div align="center">
 
-### 📫 The fastest way to reach me is **[email](mailto:shinibarua7@gmail.com)**
+### 📫 The fastest way to reach me is **[email](mailto:shrutibarua5@gmail.com)**
 
 <sub id="-how-this-works">🔧 The "Recently Updated Repos" and "Recent Activity" sections above update automatically once a day via a <a href="/.github/workflows/update-readme.yml">GitHub Actions workflow</a> that pulls live data from the GitHub API.</sub>
 
