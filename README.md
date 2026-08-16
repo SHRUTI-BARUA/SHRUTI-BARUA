@@ -135,13 +135,7 @@ More on my [pinned repos →](https://github.com/SHRUTI-BARUA?tab=repositories) 
 
 ---
 
-## 💼 Experience
 
-**Project Intern — ADRDE, DRDO** · *Ministry of Defence, Government of India*
-- Developed a dual-stage deep learning pipeline using YOLOv8 and EfficientNet for aircraft detection and recognition
-- Improved classification accuracy by feeding YOLOv8 detections as resized inputs to EfficientNet
-
----
 
 
 
