@@ -2,7 +2,17 @@
 <h3 align="center">AI/ML Engineer building end-to-end pipelines — from model to deployment | Full-Stack (MERN)</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20CS-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/SIH%202025-National%20Finalist-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/DRDO-Summer%20Trainee-green?style=flat-square" />
+</p>
+
+<p align="center">
 I build machine learning systems and full-stack web apps — from a forest-fire risk predictor with SMS alerts, to an autograd engine written from scratch, to real-time AI chat applications.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,express,mongodb,git,github&theme=dark" alt="Tech stack icons" />
 </p>
 
 ---
@@ -36,6 +46,19 @@ I build machine learning systems and full-stack web apps — from a forest-fire 
 
 Working as a **Summer Trainee at ADRDE, DRDO** (Ministry of Defence, Govt. of India), building a dual-stage deep learning pipeline for aircraft detection and recognition.
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SHRUTI-BARUA&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRUTI-BARUA&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SHRUTI-BARUA&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ### 📫 Get in Touch
 
-📧 **shrutitbarua5@gmail.com**
+<p align="center">
+  <a href="mailto:shrutitbarua5@gmail.com"><img src="https://img.shields.io/badge/Email-shrutitbarua5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
