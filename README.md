@@ -128,7 +128,7 @@ A front-end clone of Zerodha's trading dashboard — built to practice replicati
 ## ⚡ Recent Activity
 
 <!-- activity starts -->
-
+_No recent public push activity yet — go commit something!_
 <!-- activity ends -->
 
 More on my [pinned repos →](https://github.com/SHRUTI-BARUA?tab=repositories) · [How this works →](#-how-this-works)
