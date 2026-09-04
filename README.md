@@ -118,8 +118,8 @@ A front-end clone of Zerodha's trading dashboard — built to practice replicati
 
 
 <!-- repos starts -->
+- [SHRUTI-BARUA](https://github.com/SHRUTI-BARUA/SHRUTI-BARUA) — No description yet - 2026-09-03
 - [FOREST-FIRE-PREDICTION](https://github.com/SHRUTI-BARUA/FOREST-FIRE-PREDICTION) — No description yet - 2026-09-02
-- [SHRUTI-BARUA](https://github.com/SHRUTI-BARUA/SHRUTI-BARUA) — No description yet - 2026-09-02
 - [CI-CD-pipeline](https://github.com/SHRUTI-BARUA/CI-CD-pipeline) — No description yet - 2026-08-29
 - [RAG-learning](https://github.com/SHRUTI-BARUA/RAG-learning) — Learning Rag for Production  - 2026-08-27
 - [frontend-gpt](https://github.com/SHRUTI-BARUA/frontend-gpt) — No description yet - 2026-08-26
