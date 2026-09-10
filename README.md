@@ -118,7 +118,7 @@ A front-end clone of Zerodha's trading dashboard — built to practice replicati
 
 
 <!-- repos starts -->
-- [SHRUTI-BARUA](https://github.com/SHRUTI-BARUA/SHRUTI-BARUA) — No description yet - 2026-09-08
+- [SHRUTI-BARUA](https://github.com/SHRUTI-BARUA/SHRUTI-BARUA) — No description yet - 2026-09-09
 - [Rate-Limiter](https://github.com/SHRUTI-BARUA/Rate-Limiter) — No description yet - 2026-09-06
 - [Groww-watchlist](https://github.com/SHRUTI-BARUA/Groww-watchlist) — GROWW HACKATHON 2026 - 2026-09-04
 - [FOREST-FIRE-PREDICTION](https://github.com/SHRUTI-BARUA/FOREST-FIRE-PREDICTION) — No description yet - 2026-09-02
