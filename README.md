@@ -119,7 +119,7 @@ A front-end clone of Zerodha's trading dashboard — built to practice replicati
 
 <!-- repos starts -->
 - [SeekGPT-2](https://github.com/SHRUTI-BARUA/SeekGPT-2) — No description yet - 2026-09-23
-- [SHRUTI-BARUA](https://github.com/SHRUTI-BARUA/SHRUTI-BARUA) — No description yet - 2026-09-22
+- [SHRUTI-BARUA](https://github.com/SHRUTI-BARUA/SHRUTI-BARUA) — No description yet - 2026-09-23
 - [ETL](https://github.com/SHRUTI-BARUA/ETL) — No description yet - 2026-09-21
 - [frontend-gpt](https://github.com/SHRUTI-BARUA/frontend-gpt) — No description yet - 2026-09-15
 - [Rate-Limiter](https://github.com/SHRUTI-BARUA/Rate-Limiter) — No description yet - 2026-09-06
