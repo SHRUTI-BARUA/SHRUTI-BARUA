@@ -118,7 +118,7 @@ A front-end clone of Zerodha's trading dashboard — built to practice replicati
 
 
 <!-- repos starts -->
-- [SHRUTI-BARUA](https://github.com/SHRUTI-BARUA/SHRUTI-BARUA) — No description yet - 2026-10-06
+- [SHRUTI-BARUA](https://github.com/SHRUTI-BARUA/SHRUTI-BARUA) — No description yet - 2026-10-07
 - [MINIGRAD](https://github.com/SHRUTI-BARUA/MINIGRAD) — No description yet - 2026-09-28
 - [Fireguard-AI](https://github.com/SHRUTI-BARUA/Fireguard-AI) — No description yet - 2026-09-28
 - [SeekGPT-2](https://github.com/SHRUTI-BARUA/SeekGPT-2) — No description yet - 2026-09-23
